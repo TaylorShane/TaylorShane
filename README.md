@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorShane
 - 👀 I’m interested in angular and mobile development
-- 🌱 I’m currently learning angular and ionic
+- 🌱 I’m currently learning python, ionic, and flutter
 - 💞️ I’m looking to collaborate on projects with a good cause
 - 📫 How to reach me ...
 
